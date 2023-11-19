@@ -24,20 +24,18 @@ This repository contains the deliverables according to the instructions includin
     4. Given search algorithms
 
 ### Members
-Baay, Frances Leigh G.
+    * Baay, Frances Leigh G.
 
-Legaspi, Ken Andrea G.
+    * Legaspi, Ken Andrea G.
 
-Mallari, Ella Marie A.
+    * Mallari, Ella Marie A.
 
-Membrere, Zemerelin Iris M.
+    * Membrere, Zemerelin Iris M.
 
-Pabuna, Katrina B.
+    * Pabuna, Katrina B.
 
-Sajo, Jhon Kaiser R.
+    * Sajo, Jhon Kaiser R.
 
-Sevial, Rebekah Joy E.
-
-**Project Link :** 
+    * Sevial, Rebekah Joy E.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
